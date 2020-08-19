@@ -1,8 +1,8 @@
 # Building-Projects RestAPI
 ### (CRUD) RestAPI to create, store, update and delete building projects with window and door components 
 
-*The API is build using python, django and django-restframework, TDD and docker
-There will be an additional front end using Vue.js*
+*The API is build using **python**, **django** and **django-restframework**, **TDD** and **docker**
+There will be an additional front end using **Vue.js***
 
 ### Key Features
 
